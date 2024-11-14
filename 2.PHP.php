@@ -25,4 +25,16 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         echo "<p>Registration successful!</p>";
     }
 }
+
 ?>
+
+
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+<p>already Have an Account <a href="login.html">Login Here</a></p>
+
+
+<form method="POST">
+
+
+
